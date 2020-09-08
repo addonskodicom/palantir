@@ -1,1 +1,1 @@
-https://www.addonskodi.com/palantir
+<website>https://www.addonskodi.com/palantir</website>
